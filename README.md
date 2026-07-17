@@ -16,7 +16,7 @@
 - Responsive experience for phones, tablets, and iPad
 - Request lifecycle shared with a separate driver application
 
-[🌐 Live Passenger Web](https://classy-tulumba-e3d8a2.netlify.app/)
+[💻 View Source Code](https://github.com/icephu/korat-songthaew-passenger-tracker)
 
 ## Tech Stack
 
