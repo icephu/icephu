@@ -1,6 +1,6 @@
-# Hi, I'm Icephu 👋
+# Hi, I'm Ice phuwadon 👋
 
-นักพัฒนาเว็บที่สนใจการสร้างระบบซึ่งเชื่อมต่อข้อมูลจริง แผนที่ และประสบการณ์ใช้งานบนอุปกรณ์หลายขนาด
+พัฒนาเว็บที่สนใจการสร้างระบบซึ่งเชื่อมต่อข้อมูลจริง 
 
 > Web developer focused on practical, data-connected applications and responsive user experiences.
 
